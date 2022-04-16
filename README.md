@@ -1,3 +1,5 @@
+# To use this code you need to create a Firebase application
+
 # flutter_directory
 
 Phone & email directory application
